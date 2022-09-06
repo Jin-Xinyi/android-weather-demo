@@ -1,0 +1,15 @@
+[
+  "Xi'an": 
+    {
+      "temperature": "23",
+      "description": "rain"
+  },
+  "Beijing":{
+      "temperature": "25",
+      "description": "cloudy"
+  },
+  "Guangzhou":{
+      "temperature": "35",
+      "description": "sunny"
+  },
+]              
