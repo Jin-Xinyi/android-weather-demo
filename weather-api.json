@@ -1,14 +1,17 @@
 {
   "cities": [
-    "Xi'an": {
-        "temperature": "23",
-        "description": "rain"
+    {
+      "name": "Xi'an",
+      "temperature": "23",
+      "description": "rain"
     },
-    "Beijing":{
+    {
+      "name": "Beijing",
       "temperature": "25",
       "description": "cloudy"
     },
-    "Guangzhou":{
+    {
+      "name": "Guangzhou",
         "temperature": "35",
         "description": "sunny"
     },
